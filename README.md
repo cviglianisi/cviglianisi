@@ -9,6 +9,7 @@ I am a point of reference for my managers and for Junior resources.
 - 📫 How to reach me: cviglianisi@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: they say about me, I'm the Salt Bae of the task assignment
+- ✨ Be blessed by being a blessing
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cviglianisi&theme=dracula&hide_border=false)<br/>
 
