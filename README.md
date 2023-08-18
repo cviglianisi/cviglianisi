@@ -11,7 +11,8 @@ I am a point of reference for my managers and for Junior resources.
 - ⚡ Fun fact: they say about me, I'm the Salt Bae of the task assignment
 - ✨ Be blessed by being a blessing
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=cviglianisi&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cviglianisi&theme=dark&hide_border=false)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=cviglianisi&theme=dark)-->
 
 ### 🌐 a formal place where you can find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cviglianisi/) 
