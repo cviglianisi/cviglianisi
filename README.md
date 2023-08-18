@@ -4,8 +4,8 @@ I held positions of Team Lead, Technical Lead and Software Developer, engaged in
 During my career, I was in charge of interviewing/hiring developers and following young people through the technical training process.
 I am a point of reference for my managers and for Junior resources.
 
-- 👯 I’m currently working as Delivery Lead with Digitouch SpA.
-- 🌱 I’m currently learning Redis, Quarkus and Best practice for SA
+- 👯 Currently working as Delivery Lead with Digitouch SpA.
+- 🌱 Currently learning Redis, Quarkus and Best practice for SA
 - 📫 How to reach me: cviglianisi@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: they say about me, I'm the Salt Bae of the task assignment
