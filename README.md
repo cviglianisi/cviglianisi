@@ -2,13 +2,13 @@
 By nature thrilled by new challenges and learning new things, I have been involved in software development and business consultancy for several years.
 I held positions of Team Lead, Technical Lead and Software Developer, engaged in projects on behalf of Ministries and companies among the largest in Italy.
 During my career, I was in charge of interviewing/hiring developers and following young people through the technical training process.
-I am fixed point for my managers and for Junior resources.
+I am a fixed point for my managers and for Junior resources.
 
 - 👯 Currently working as Delivery Lead with Digitouch SpA.
-- 🌱 Currently learning Redis, Quarkus and Best practice for SA
-- 📫 How to reach me: cviglianisi@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: they say about me, I'm the Salt Bae of the task assignment
+- 🌱 Currently learning Redis, Quarkus, and Best practice for SA
+- 📫 cviglianisi@gmail.com
+- 😄 he/him
+- ⚡ they say about me, I'm the Salt Bae of the task assignment
 - ✨ Be blessed by being a blessing
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cviglianisi&theme=dark&hide_border=false)
