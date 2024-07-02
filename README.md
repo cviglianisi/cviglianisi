@@ -1,8 +1,8 @@
 ### about me
 By nature thrilled by new challenges and learning new things, I have been involved in software development and business consultancy for several years.
-I held positions of Team Lead, Technical Lead and Software Developer, engaged in projects on behalf of Ministries and companies among the largest in Italy.
+I held positions of Delivery Lead, Team Lead, Technical Lead and Software Developer, engaged in projects on behalf of Ministries and companies among the largest in Italy.
 During my career, I was in charge of interviewing/hiring developers and following young people through the technical training process.
-I am a fixed point for my managers and for Junior resources.
+I am a fixed point for my Managers and for Junior resources.
 
 - 👯 Currently working as Delivery Lead with Digitouch SpA.
 - 🌱 Currently learning Redis, Quarkus, and Best practice for SA
